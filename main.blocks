@@ -1,0 +1,6 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><comment id="gZK[eMR9DTj/X7L;eIPG" x="322" y="20" w="370" h="120">
+basic.showString("mp3:bit");
+basic.showString("Press A to Start");
+</comment><comment id="YRP+Hwl_FOB{G_v7L?EL" x="20" y="241" w="160" h="120">
+let toneHz =
+</comment></xml>
