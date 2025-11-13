@@ -36,8 +36,3 @@ input.onButtonPressed(Button.B, function () {
     toneHz += 10;
     resetNoise();
 })
-
-
-input.onPinPressed(TouchPin.P0, function() {
-    
-})
