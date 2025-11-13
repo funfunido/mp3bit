@@ -1,5 +1,6 @@
 
-> Open this page at [https://funfunido.github.io/mp3bit/](https://funfunido.github.io/mp3bit/)
+A simple oscillator for micro:bit. That's it.
+
 
 ## Use as Extension
 
